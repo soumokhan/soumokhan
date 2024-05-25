@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Soumo Khan</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **web development**
-
 - 📫 How to reach me **khansoumo2020@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
